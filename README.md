@@ -1,2 +1,2 @@
 # angiraInterior
-An interior decoration company
+An interior decoration Company from India
